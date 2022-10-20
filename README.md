@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=6458F7&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I'm+Vinicius.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+studying+Information+Systems+at+Federal+University+of+Paraiba;A+beginner+system+developer+working+on+Back-end)](https://git.io/typing-svg)
 
 
- -  Hoje tenho como objetivo me torna um desenvolvedor BackEnd.  
- -  Atualmente possuo foco em Java com Spring Boot.
- -  Entre em contato comigo pelo gmail: pedrorochadias1001@gmail.com
+ -  I currently aim to become a BackEnd developer. 
+ -  I currently focus on Java with Spring Boot.
+ -  contact me via Gmail: pedrorochadias1001@gmail.com
 
 ## 
 
