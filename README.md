@@ -37,7 +37,7 @@
 
 
 
-### Contact:
+### Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/pedro-vinicius-8472351b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-d9137e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.diasxx/)
 
