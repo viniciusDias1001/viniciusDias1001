@@ -2,9 +2,7 @@
 
 
  ## _I'm ..._
-<a href="#viniciusDias1001-title">
- <img src="https://github-readme-stats-viniciusDias1001.vercel.app/api?username=ryanjorgeac&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Vinicius Dias Github Stats" align="right"/>
-</a>
+
 
 - [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
 
