@@ -1,12 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=6458F7&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I'm+Vinicius.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+studying+Information+Systems+at+Federal+University+of+Paraiba;A+beginner+system+developer+working+on+Back-end)](https://git.io/typing-svg)
 
 
- -  I currently aim to become a BackEnd developer. 
- -  I currently focus on Java with Spring Boot.
- -  contact me via Gmail: pedrorochadias1001@gmail.com
+ ## _I'm ..._
+<a href="#viniciusDias1001-title">
+ <img src="https://github-readme-stats-viniciusDias1001.vercel.app/api?username=ryanjorgeac&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Vinicius Dias Github Stats" align="right"/>
+</a>
 
-## 
+- [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
 
+- DevOps scholarship student [**AYTY - Lab. Pesquisa**](https://www.linkedin.com/company/ayty-ufpb/) in [**In the Technical Debt project**]
+
+- Learning more about project [**Tracy-TD**](https://github.com/tracy-td)
+
+- 20 years old
+
+- From Brazil
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusDias1001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
