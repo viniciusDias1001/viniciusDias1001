@@ -20,20 +20,28 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-2C2255?style=for-the-badge&logo=git&labelColor=fff)&nbsp;
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-2C2255?style=for-the-badge&logo=github&labelColor=161b22)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-2C2255?style=for-the-badge&logo=windows&labelColor=4eb6ff)&nbsp;
-
+ 
 ### Studying in this moment:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2255?style=for-the-badge&logo=postgresql&labelColor=316192&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
 
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/pedro-vinicius-8472351b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-d9137e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.diasxx/)
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
