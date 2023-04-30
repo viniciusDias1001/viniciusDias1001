@@ -6,10 +6,10 @@
  ## _I'm ..._      <div align="center">
   <img src="https://i.picasion.com/pic92/40301ed25cee93ae1f90bdeba7e33fa3.gif" width="300" height="169" border="0" alt="https://picasion.com/" align="right">
 </div>
-
+<br/>
 
 - [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)                                                                                                                                                                                                   
-- DevOps scholarship student [**AYTY - Lab. Pesquisa**](https://www.linkedin.com/company/ayty-ufpb/) in [**In the Technical Debt project**]
+- DevOps scholarship student [**AYTY - Lab. Pesquisa**](https://www.linkedin.com/company/ayty-ufpb/)
 
 - Learning more about project [**Tracy-TD**](https://github.com/tracy-td)
 
