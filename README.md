@@ -3,11 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=6458F7&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I'm+Vinicius.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+studying+Information+Systems+at+Federal+University+of+Paraiba;A+beginner+system+developer+working+on+Back-end)](https://git.io/typing-svg)
 
 
- ## _I'm ..._
+ ## _I'm ..._      <div align="center">
+  <img src="https://i.picasion.com/pic92/40301ed25cee93ae1f90bdeba7e33fa3.gif" width="300" height="169" border="0" alt="https://picasion.com/" align="right">
+</div>
 
 
-- [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)
-
+- [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)                                                                                                                                                                                                   
 - DevOps scholarship student [**AYTY - Lab. Pesquisa**](https://www.linkedin.com/company/ayty-ufpb/) in [**In the Technical Debt project**]
 
 - Learning more about project [**Tracy-TD**](https://github.com/tracy-td)
