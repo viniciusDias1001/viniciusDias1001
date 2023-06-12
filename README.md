@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=6458F7&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I'm+Vinicius.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+studying+Information+Systems+at+Federal+University+of+Paraiba;A+beginner+system+developer+working+on+Back-end)](https://git.io/typing-svg)
 
 
- ## _I'm ..._  <div align="center">
+   <div align="center">
   <img src="https://i.picasion.com/pic92/40301ed25cee93ae1f90bdeba7e33fa3.gif" width="300" height="169" border="0" alt="https://picasion.com/" align="right">
 </div>
 <br/>
