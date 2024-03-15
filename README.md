@@ -9,9 +9,7 @@
 <br/>
 
 - [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)                                                                                                                                                                                                   
-- DevOps scholarship student [**AYTY - Lab. Pesquisa**](https://www.linkedin.com/company/ayty-ufpb/)
-
-- Learning more about project [**Tracy-TD**](https://github.com/tracy-td)
+- DevOps scholarship student [**Phoebus**](https://www.linkedin.com/company/phoebus-tecnologia/)
 
 - 21 years old
 
