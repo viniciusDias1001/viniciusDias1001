@@ -7,11 +7,8 @@
   <img src="https://i.picasion.com/pic92/40301ed25cee93ae1f90bdeba7e33fa3.gif" width="300" height="169" border="0" alt="https://picasion.com/" align="right">
 </div>
 <br/>
-
-- [Information Systems](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=1626837&lc=pt_BR) Student at [**Federal University of Paraíba**](https://www.ufpb.br/)                                                                                                                                                                                                   
-- DevOps scholarship student [**Phoebus**](https://www.linkedin.com/company/phoebus-tecnologia/)
-
-- 21 years old
+                                                                                                                                                                                              
+- 22 years old
 
 - From Brazil
 <br/>
