@@ -1,43 +1,90 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b00e0&height=120&section=header"/>
+<h2 align="center">Hello! I'm Pedro Vinícius 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=6458F7&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I'm+Vinicius.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+bachelor+Information+Systems+at+Federal+University+of+Paraiba;+junior+software+engineer+working+on+Back-end)](https://git.io/typing-svg)
+<p align="center">
+  <strong>Junior Back-end Developer | Java & Spring Boot</strong>
+</p>
 
-<br/>       
+<p align="center">
+  A <strong>Back-end Developer</strong> with hands-on experience in <strong>Java and Spring Boot</strong>, focused on building <strong>maintainable, scalable, and well-structured systems</strong>. 
+  I have experience working in <strong>corporate environments</strong> and real-world projects, applying <strong>Clean Code, SOLID principles, and Agile practices</strong> to deliver high-quality software.
+</p>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/pedro-vinicius-8472351b7/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:pedrorochadias1001@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</p>
 
+## 👤 About me
 
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=viniciusDias1001&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&hide_border=true&hide_rank=true" 
+  alt="Pedro Vinícius Github Stats" 
+  align="right"
+/>
 
-  
-  ### Main skills:
-![Java](https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&labelColor=e30b0b&logoColor=fff)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=2b2b2b" alt="Spring Codeclean">
-<img src="https://img.shields.io/badge/codeclean-007BFF?style=for-the-badge" alt="codeclean">
+👨‍💻 **Junior Back-end Developer**, with professional experience working on <strong>Java-based systems</strong>, including <strong>legacy system maintenance, refactoring, and performance optimization</strong>.
 
+🎓 **Bachelor’s Degree in Information Systems** at **UFPB**.
 
+🌍 **Advanced English (C1)** with **international experience in Ireland**, enabling collaboration in multicultural and distributed teams.
 
+🧠 Strong focus on <strong>software quality, maintainability, and sustainable development</strong>.
 
+📍 **Based in** Paraíba, Brazil.
 
-### Tools:
-![Git](https://img.shields.io/badge/-Git-2C2255?style=for-the-badge&logo=git&labelColor=fff)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-2C2255?style=for-the-badge&logo=github&labelColor=161b22)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-2C2255?style=for-the-badge&logo=windows&labelColor=4eb6ff)&nbsp;
- 
-### Studying in this moment:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2255?style=for-the-badge&logo=postgresql&labelColor=316192&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+## 🛠️ Tech Stack & Skills
 
+### Back-end & Core
+<table>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br/>Java
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/><br/>Spring Boot
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br/>Node.js
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br/>Docker
+    </td>
+  </tr>
+</table>
 
+### Databases & APIs
+<table>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br/>PostgreSQL
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br/>MySQL
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/>MongoDB
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>Git
+    </td>
+  </tr>
+</table>
 
+### Practices & Tools
+`REST APIs` • `JPA/Hibernate` • `CI/CD (GitLab)` • `Clean Code` • `SOLID` • `Scrum` • `Automated Testing`
 
-### Where you can find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/pedro-vinicius-8472351b7/)
-[![Instagram](https://img.shields.io/badge/Instagram-d9137e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.diasxx/)
+---
 
+### Coding Activity
+<!--START_SECTION:waka-->
 
-
+```txt
+Java       6 hrs 10 mins   ████████████▓░░░░░░░░░░░░   52.10 %
+SQL        1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Docker     1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+YAML       1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Other      1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.20 %
