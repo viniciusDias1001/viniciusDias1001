@@ -1,12 +1,16 @@
 <h2 align="center">Hello! I'm Pedro Vinícius 👋</h2>
 
 <p align="center">
-  <strong>Junior Back-end Developer | Java & Spring Boot</strong>
+  <strong>Software Engineer & Tech Lead | Full Stack • AI Automation • Backend Systems</strong>
 </p>
 
 <p align="center">
-  A <strong>Back-end Developer</strong> with hands-on experience in <strong>Java and Spring Boot</strong>, focused on building <strong>maintainable, scalable, and well-structured systems</strong>. 
-  I have experience working in <strong>corporate environments</strong> and real-world projects, applying <strong>Clean Code, SOLID principles, and Agile practices</strong> to deliver high-quality software.
+  <strong>Software Engineer</strong> with hands-on experience leading development teams and architecting
+  <strong>full-stack systems, intelligent automation, and AI-powered integrations</strong>.
+  Strong background in <strong>Java/Spring Boot</strong> and <strong>Node.js</strong>, combined with
+  real-world experience in <strong>n8n workflows, RPA, and AI agents</strong> applied to production
+  environments. I build <strong>scalable, maintainable and well-structured software</strong> guided by
+  <strong>Clean Code, SOLID, DDD and Agile practices</strong>.
 </p>
 
 <p align="center">
@@ -20,21 +24,31 @@
 
 ## 👤 About me
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=viniciusDias1001&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&hide_border=true&hide_rank=true" 
-  alt="Pedro Vinícius Github Stats" 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=viniciusDias1001&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&hide_border=true&hide_rank=true"
+  alt="Pedro Vinícius Github Stats"
   align="right"
 />
 
-👨‍💻 **Junior Back-end Developer**, with professional experience working on <strong>Java-based systems</strong>, including <strong>legacy system maintenance, refactoring, and performance optimization</strong>.
+👨‍💻 **Software Engineer & Tech Lead** currently at **HarmonizaPro**, where I lead a team of developers,
+make core architectural decisions and drive the full software lifecycle — from design to deploy and
+continuous support.
 
-🎓 **Bachelor’s Degree in Information Systems** at **UFPB**.
+🧠 Deep experience with **AI automation, RPA, n8n workflows and AI agents**, integrating multiple
+platforms through **REST APIs, Redis, Docker and Node.js** in real production environments.
 
-🌍 **Advanced English (C1)** with **international experience in Ireland**, enabling collaboration in multicultural and distributed teams.
+☕ Strong **Java/Spring Boot** background, including **legacy system refactoring, performance
+optimization and SQL tuning** in critical enterprise environments (Minsait Indra).
 
-🧠 Strong focus on <strong>software quality, maintainability, and sustainable development</strong>.
+🚀 Founder of **P.S.AI**, where I delivered end-to-end intelligent automation solutions, websites
+and custom systems for clinics and local businesses.
 
-📍 **Based in** Paraíba, Brazil.
+🎓 **Bachelor's Degree in Information Systems** — UFPB.
+
+🌍 **Advanced English (C1)** with **international experience in Dublin, Ireland**, comfortable
+collaborating in multicultural and distributed teams.
+
+📍 Based in **Paraíba, Brazil**.
 
 ## 🛠️ Tech Stack & Skills
 
@@ -51,12 +65,36 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br/>Node.js
     </td>
     <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br/>TypeScript
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>Python
+    </td>
+    <td align="center" width="70">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br/>Docker
     </td>
   </tr>
 </table>
 
-### Databases & APIs
+### Front-end
+<table>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="48"/><br/>Angular
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/>JavaScript
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS3
+    </td>
+  </tr>
+</table>
+
+### Databases & Infra
 <table>
   <tr>
     <td align="center" width="70">
@@ -69,22 +107,30 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/>MongoDB
     </td>
     <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br/>Redis
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48"/><br/>Supabase
+    </td>
+    <td align="center" width="70">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>Git
     </td>
   </tr>
 </table>
 
+### Automation & AI
+`n8n` • `AI Agents` • `RPA` • `LLM Integrations (Claude / OpenAI)` • `Prompt Engineering` • `Webhooks & Event Pipelines`
+
 ### Practices & Tools
-`REST APIs` • `JPA/Hibernate` • `CI/CD (GitLab)` • `Clean Code` • `SOLID` • `Scrum` • `Automated Testing`
+`REST APIs` • `JPA/Hibernate` • `CI/CD (GitLab / GitHub Actions)` • `Clean Code` • `SOLID` • `DDD` • `Scrum` • `Code Review` • `Automated Testing (Jest, Vitest, Robot Framework)`
+
+## 💼 Experience Highlights
+
+- **Software Engineer & Tech Lead @ HarmonizaPro** — Leading a dev team, architecting a full Node.js internal system tightly integrated with n8n automation, driving technical decisions and engineering best practices.
+- **Founder & Software Engineer @ P.S.AI** — Built end-to-end intelligent automation (RPA + AI agents), websites and custom systems for clinics and local businesses.
+- **Software Engineer (Back-end) @ Minsait Indra** — Evolved and sustained critical legacy systems (Java 8, JSP), led refactors, SQL optimization and CI/CD with GitLab.
+- **Full Stack Developer Intern @ Phoebus** — Serverless Node.js + MongoDB, Android (Java) apps, payment integrations, MVVM migrations, Jest + Robot Framework testing.
+- **Full Stack Developer Intern @ Ayty** — Spring Boot 2/3 + Angular, REST integrations, code review and technical debt reduction.
 
 ---
 
-### Coding Activity
-<!--START_SECTION:waka-->
-
-```txt
-Java       6 hrs 10 mins   ████████████▓░░░░░░░░░░░░   52.10 %
-SQL        1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-Docker     1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-YAML       1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Other      1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.20 %
