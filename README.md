@@ -24,12 +24,6 @@
 
 ## 👤 About me
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=viniciusDias1001&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&hide_border=true&hide_rank=true"
-  alt="Pedro Vinícius Github Stats"
-  align="right"
-/>
-
 👨‍💻 **Software Engineer & Tech Lead** currently at **HarmonizaPro**, where I lead a team of developers,
 make core architectural decisions and drive the full software lifecycle — from design to deploy and
 continuous support.
